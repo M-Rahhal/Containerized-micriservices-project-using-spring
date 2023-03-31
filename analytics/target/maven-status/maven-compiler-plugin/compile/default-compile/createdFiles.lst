@@ -1,0 +1,7 @@
+com\analytics\Controller\AnalyticsController.class
+com\analytics\AnalyticsApplication.class
+com\analytics\services\AnalyticsService.class
+com\analytics\model\StudentGrades.class
+com\analytics\Dao\StudentGradesDao$StudentGradesMapper.class
+com\analytics\model\GradesStatistics.class
+com\analytics\Dao\StudentGradesDao.class
