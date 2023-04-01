@@ -1,6 +1,0 @@
-com\Authentication\AuthenticationService\dao\UserDao$UserMapper.class
-com\Authentication\AuthenticationService\model\User.class
-com\Authentication\AuthenticationService\dao\UserDao.class
-com\Authentication\AuthenticationService\AuthenticationServiceApplication.class
-com\Authentication\AuthenticationService\controller\AuthenticationController.class
-com\Authentication\AuthenticationService\Service\AuthenticationService.class
